@@ -1,0 +1,10 @@
+ipython
+ipykernel
+jupyter
+jupyterlab
+pyyaml
+pandas
+xlrd
+numpy
+scipy
+gmsh	# gmsh really has to be installed with pip

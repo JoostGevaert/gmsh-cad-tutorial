@@ -1,0 +1,4 @@
+These are the FreeCAD files used for creating the .brep geometry file in the PyGIMLi CAD tutorial. 
+dike_mod.FCStd:			complete FreeCAD geometry including all 3 regions
+inversion_region.FCStd:	the region of interest for ERT modeling and inversion
+outer_region.FCStd:		the world around the the inversion region
